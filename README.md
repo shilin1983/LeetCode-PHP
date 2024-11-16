@@ -28,7 +28,8 @@ sh test.sh
 
 ## 题解列表
 
-| 序号  |                           标题                            | 难度  |                        方案                        |
-| :---: | :-------------------------------------------------------: | :---: | :------------------------------------------------: |
-| 0001  |     [两数之和](https://leetcode.cn/problems/two-sum/)     | 简单  |    [PHP](src/solutions/problem0001/twoSum.php)     |
-| 0002  | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | 中等  | [PHP](src/solutions/problem0002/addTwoNumbers.php) |
+| 序号  |                                                 标题                                                 | 难度  |                                      方案                                       |
+| :---: | :--------------------------------------------------------------------------------------------------: | :---: | :-----------------------------------------------------------------------------: |
+| 0001  |                          [两数之和](https://leetcode.cn/problems/two-sum/)                           | 简单  |                   [PHP](src/solutions/problem0001/twoSum.php)                   |
+| 0002  |                      [两数相加](https://leetcode.cn/problems/add-two-numbers/)                       | 中等  |               [PHP](src/solutions/problem0002/addTwoNumbers.php)                |
+| 0003  | [无重复字符的最长子串](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | 中等  | [PHP](src/solutions/problem0003/longestSubstringWithoutRepeatingCharacters.php) |
